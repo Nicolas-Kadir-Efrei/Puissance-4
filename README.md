@@ -1,2 +1,2 @@
 # Puissance-4-
-teste
+Prémice, introduction a la programation
